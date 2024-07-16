@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\allocine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\canalplus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\canalplus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\tvactu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\tvactu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\trailers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\trailers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\vod\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\vod\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\streaming\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\streaming\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\controllers\\canalpluscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\controllers\\canalpluscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\series\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\series\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\controllers\\vodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\controllers\\vodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\home\\trailers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\home\\trailers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\controllers\\lesindescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\controllers\\lesindescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\home\\cinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\home\\cinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|c:\\users\\msi\\source\\repos\\allocine\\allocine\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE21D-FE09-41C1-93FD-A91CEE18FC66}|allocine\\allocine.csproj|solutionrelative:allocine\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\TvActu\\Index.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\TvActu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\TvActu\\Index.cshtml",
+              "RelativeToolTip": "allocine\\Views\\TvActu\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T21:44:12.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Vod\\Index.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\Vod\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Vod\\Index.cshtml",
+              "RelativeToolTip": "allocine\\Views\\Vod\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T18:56:03.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\CanalPlus\\Index.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\CanalPlus\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\CanalPlus\\Index.cshtml",
+              "RelativeToolTip": "allocine\\Views\\CanalPlus\\Index.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwDMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T18:55:53.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Trailers\\Index.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\Trailers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Trailers\\Index.cshtml",
+              "RelativeToolTip": "allocine\\Views\\Trailers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T18:53:37.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Streaming\\Index.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\Streaming\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Streaming\\Index.cshtml",
+              "RelativeToolTip": "allocine\\Views\\Streaming\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T18:52:20.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CanalPlusController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Controllers\\CanalPlusController.cs",
+              "RelativeDocumentMoniker": "allocine\\Controllers\\CanalPlusController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Controllers\\CanalPlusController.cs",
+              "RelativeToolTip": "allocine\\Controllers\\CanalPlusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:39:06.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LesIndesController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Controllers\\LesIndesController.cs",
+              "RelativeDocumentMoniker": "allocine\\Controllers\\LesIndesController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Controllers\\LesIndesController.cs",
+              "RelativeToolTip": "allocine\\Controllers\\LesIndesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:37:21.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VodController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Controllers\\VodController.cs",
+              "RelativeDocumentMoniker": "allocine\\Controllers\\VodController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Controllers\\VodController.cs",
+              "RelativeToolTip": "allocine\\Controllers\\VodController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:35:41.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeriesController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Controllers\\SeriesController.cs",
+              "RelativeDocumentMoniker": "allocine\\Controllers\\SeriesController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Controllers\\SeriesController.cs",
+              "RelativeToolTip": "allocine\\Controllers\\SeriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:30:23.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Series\\Index.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\Series\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Series\\Index.cshtml",
+              "RelativeToolTip": "allocine\\Views\\Series\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T18:22:11.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Cinema\\Index.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\Cinema\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Cinema\\Index.cshtml",
+              "RelativeToolTip": "allocine\\Views\\Cinema\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T18:21:10.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "allocine\\Views\\News\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T18:13:37.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Trailers.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Home\\Trailers.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\Home\\Trailers.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Home\\Trailers.cshtml",
+              "RelativeToolTip": "allocine\\Views\\Home\\Trailers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T10:42:16.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cinema.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Home\\Cinema.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\Home\\Cinema.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Home\\Cinema.cshtml",
+              "RelativeToolTip": "allocine\\Views\\Home\\Cinema.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T10:38:21.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "allocine\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T09:50:25.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "allocine\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T09:50:22.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "allocine\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T09:49:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "allocine\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T09:49:20.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "allocine\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "allocine\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T09:45:28.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "allocine\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "allocine\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:44:49.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
