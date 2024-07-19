@@ -22,6 +22,17 @@
             .navbar-custom .navbar-brand {
                 color: black;
             }
+        .custom-img {
+    width: 100%; /* Ajuster la largeur à 100% pour le carousel */
+    height: 600px; /* Hauteur spécifique pour les images du carousel */
+    object-fit: cover; /* Pour que les images remplissent bien le carousel */
+}
+
+.card-img-custom {
+    height: 500px; /* Hauteur spécifique pour les images des cartes */
+    object-fit: cover; /* Pour que les images remplissent bien les cartes */
+}
+
     </style>
 </head>
 <body>
@@ -84,6 +95,8 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha384-...<replace_with_actual_integrity_hash>..." crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-...<replace_with_actual_integrity_hash>..." crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.2/js/bootstrap.min.js" integrity="sha384-...<replace_with_actual_integrity_hash>..." crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
