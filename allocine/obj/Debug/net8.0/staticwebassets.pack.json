@@ -9,12 +9,96 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
       "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\Temps aimer.jpg",
       "PackagePath": "staticwebassets\\images\\Temps aimer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f1.jpg",
+      "PackagePath": "staticwebassets\\images\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f10.jpg",
+      "PackagePath": "staticwebassets\\images\\f10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f11.jpg",
+      "PackagePath": "staticwebassets\\images\\f11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f12.jpg",
+      "PackagePath": "staticwebassets\\images\\f12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f13.jpg",
+      "PackagePath": "staticwebassets\\images\\f13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f14.jpg",
+      "PackagePath": "staticwebassets\\images\\f14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f15.jpg",
+      "PackagePath": "staticwebassets\\images\\f15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f16.jpg",
+      "PackagePath": "staticwebassets\\images\\f16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f17.jpg",
+      "PackagePath": "staticwebassets\\images\\f17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f18.jpg",
+      "PackagePath": "staticwebassets\\images\\f18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f2.jpg",
+      "PackagePath": "staticwebassets\\images\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f3.jpg",
+      "PackagePath": "staticwebassets\\images\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f4.jpg",
+      "PackagePath": "staticwebassets\\images\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f5.jpg",
+      "PackagePath": "staticwebassets\\images\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f6.jpg",
+      "PackagePath": "staticwebassets\\images\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f7.jpg",
+      "PackagePath": "staticwebassets\\images\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f8.jpg",
+      "PackagePath": "staticwebassets\\images\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\f9.jpg",
+      "PackagePath": "staticwebassets\\images\\f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\film.jpg",
+      "PackagePath": "staticwebassets\\images\\film.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\film2.jpg",
+      "PackagePath": "staticwebassets\\images\\film2.jpg"
     },
     {
       "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\image1.jpg",
@@ -27,6 +111,22 @@
     {
       "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\image3.jpg",
       "PackagePath": "staticwebassets\\images\\image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\s1.jpg",
+      "PackagePath": "staticwebassets\\images\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\s2.jpg",
+      "PackagePath": "staticwebassets\\images\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\s3.jpg",
+      "PackagePath": "staticwebassets\\images\\s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\images\\site.css",
+      "PackagePath": "staticwebassets\\images\\site.css"
     },
     {
       "Id": "C:\\Users\\MSI\\source\\repos\\allocine\\allocine\\wwwroot\\js\\site.js",

@@ -28,3 +28,4 @@ C:\Users\MSI\source\repos\allocine\allocine\obj\Debug\net8.0\refint\allocine.dll
 C:\Users\MSI\source\repos\allocine\allocine\obj\Debug\net8.0\allocine.pdb
 C:\Users\MSI\source\repos\allocine\allocine\obj\Debug\net8.0\allocine.genruntimeconfig.cache
 C:\Users\MSI\source\repos\allocine\allocine\obj\Debug\net8.0\ref\allocine.dll
+C:\Users\MSI\source\repos\allocine\allocine\obj\Debug\net8.0\allocine.sourcelink.json

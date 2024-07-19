@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("allocine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14263e01c6f606618679c3e581fb7e2bd7244602")]
 [assembly: System.Reflection.AssemblyProductAttribute("allocine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("allocine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
